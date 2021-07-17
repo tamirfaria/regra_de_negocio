@@ -6,7 +6,7 @@
 ### Documentos
 * Especificação funcional;
 * Documento de requisitos;
-* BBD;
+* BDD;
 ![Screenshot](https://raw.githubusercontent.com/tamirfaria/regra_de_negocio/main/bdd.png)
 
 ### Olhar
