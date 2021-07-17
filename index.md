@@ -7,6 +7,8 @@
 * Especificação funcional;
 * Documento de requisitos;
 * BBD;
+![Screenshot](https://raw.githubusercontent.com/tamirfaria/regra_de_negocio/main/bdd.png)
+
 ### Olhar
 * Estou entendendo o negócio?
 * Faz sentido?
